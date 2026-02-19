@@ -1,8 +1,22 @@
 ## Hi there 👋
 
-Welcome to my github profile!
+Welcome to my github profile! I'm a mechanical engineer passionate about building cool things.
+
+
+## 🔭 My Projects
+- [VPA](https://github.com/Al-Fuentes-27/project-alpha) – A virtual personal assistant ...
+- [ML stock forecast](https://github.com/Al-Fuentes-27/awesome-lib) – A ML model for predicting stock market trends.
+
+## 📫 How to reach me
+- Twitter: ...
+- Email: alfuentespython@gmail.com
+
+
+
 
 <!--
+- [My Blog](https://github.com/johndoe/my-blog) – Source code for my personal site
+
 **Al-Fuentes-27/Al-Fuentes-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
