@@ -4,8 +4,8 @@ Welcome to my github profile! I'm a mechanical engineer passionate about buildin
 
 
 ## 🔭 My Projects
-- [VPA](https://github.com/Al-Fuentes-27/project-alpha) – A virtual personal assistant ...
-- [ML stock forecast](https://github.com/Al-Fuentes-27/awesome-lib) – A ML model for predicting stock market trends.
+- [VPA](https://github.com/Al-Fuentes-27/VPA_afz) – A virtual personal assistant ...
+- [ML stock forecast](https://github.com/Al-Fuentes-27/ML_StockForecast_afz) – A ML model for predicting stock market trends.
 
 ## 📫 How to reach me
 - Twitter: ...
