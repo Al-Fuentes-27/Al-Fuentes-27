@@ -8,7 +8,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-fuentes-zaldivar/)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-fuentes-zaldivar/)-->
 [![GitHub](https://img.shields.io/badge/GitHub-Al--Fuentes--27-black?style=for-the-badge&logo=github)](https://github.com/Al-Fuentes-27)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:alfuentespython@gmail.com)
 
@@ -114,7 +114,7 @@ Machine learning model for predicting stock market trends using time series anal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aldo_Fuentes_Zaldivar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-fuentes-zaldivar/)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aldo_Fuentes_Zaldivar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-fuentes-zaldivar/)-->
 [![Email](https://img.shields.io/badge/Email-alfuentespython@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alfuentespython@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Al--Fuentes--27-black?style=for-the-badge&logo=github)](https://github.com/Al-Fuentes-27)
 
