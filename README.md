@@ -8,7 +8,7 @@
 
 ---
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-fuentes-zaldivar/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aldo-fuentes-3816a9424)
 [![GitHub](https://img.shields.io/badge/GitHub-Al--Fuentes--27-black?style=for-the-badge&logo=github)](https://github.com/Al-Fuentes-27)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:alfuentespython@gmail.com)
 
@@ -64,6 +64,15 @@ A voice-enabled virtual assistant built with Python, featuring natural language 
 </td>
 <td width="50%">
 
+### 📈 Review Scheduler
+
+An advanced, locally-hosted Spaced Repetition System (SRS) engine and analytics suite designed specifically for Obsidian knowledge vaults.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ReviewScheduler_afz-black?logo=github)](https://github.com/Al-Fuentes-27/ReviewScheduler_afz)
+
+</td>
+<td width="50%">
+
 ### 📈 ML Stock Forecast
 
 Machine learning model for predicting stock market trends using time series analysis and financial indicators.
@@ -114,7 +123,7 @@ Machine learning model for predicting stock market trends using time series anal
 
 <div align="center">
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aldo_Fuentes_Zaldivar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aldo-fuentes-zaldivar/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aldo_Fuentes_Zaldivar-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/aldo-fuentes-3816a9424)
 [![Email](https://img.shields.io/badge/Email-alfuentespython@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alfuentespython@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Al--Fuentes--27-black?style=for-the-badge&logo=github)](https://github.com/Al-Fuentes-27)
 
