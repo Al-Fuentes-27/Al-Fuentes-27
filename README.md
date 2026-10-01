@@ -71,6 +71,11 @@ An advanced, locally-hosted Spaced Repetition System (SRS) engine and analytics 
 [![GitHub](https://img.shields.io/badge/GitHub-ReviewScheduler_afz-black?logo=github)](https://github.com/Al-Fuentes-27/ReviewScheduler_afz)
 
 </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td width="50%">
 
 ### 📈 ML Stock Forecast
