@@ -76,7 +76,7 @@ An advanced, locally-hosted Spaced Repetition System (SRS) engine and analytics 
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 📈 ML Stock Forecast
 
